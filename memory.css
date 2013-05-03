@@ -31,3 +31,13 @@ body{
 .hidden{
   display: none;
 }
+
+.revealed{
+  display: inherit;
+}
+
+.matched{
+  font-color: green;
+  font-size: 45px;
+  display: inherit;
+}
